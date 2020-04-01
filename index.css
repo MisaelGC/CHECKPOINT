@@ -34,6 +34,11 @@ header form{
 }
 
 /* body */
+main{
+    margin: 0;
+    margin-top: -55.7%
+}
+
 main section img{
   width: 70%;
   background-size: cover;

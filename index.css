@@ -36,7 +36,7 @@ header form{
 /* body */
 main{
     margin: 0;
-    margin-top: -55.7%
+    margin-top: -45%
 }
 
 main section img{
@@ -62,6 +62,7 @@ main section div{
 .chiapas h2{
   color: red;
   font-size: 8;
+  display: inline-block;
 }
 
 .chiapas p{
@@ -71,6 +72,7 @@ main section div{
 .guanajuato h2{
   color: red;
   font-size: 8;
+  display: inline-block;
 }
 
 .guanajuato p{
@@ -80,6 +82,7 @@ main section div{
 .yucatan h2{
   color: red;
   font-size: 8;
+  display: inline-block;
 }
 
 .yucatan p{
@@ -89,6 +92,7 @@ main section div{
 .puebla h2{
   color: red;
   font-size: 8;
+  display: inline-block;
 }
 
 .puebla p{
@@ -98,6 +102,7 @@ main section div{
 .puerto h2{
   color: red;
   font-size: 8;
+  display: inline-block;
 }
 
 .puerto p{
